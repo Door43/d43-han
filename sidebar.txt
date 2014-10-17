@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[han:home|Door43 (han)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-han|d43-han repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-han/archive/master.zip|d43-han.zip]]
+
+**Recent Changes**
+{{changes>ns = han}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/han|Ethnologue data]]
+
